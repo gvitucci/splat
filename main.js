@@ -747,7 +747,7 @@ async function main() {
         // "nike.splat",
         // location.href,
         params.get("url") || "splatty.splat",
-        "https://huggingface.co/gvitucci/gaussianSplats/resolve/main",
+        "https://huggingface.co/gvitucci/gaussianSplats/resolve/main/",
     );
     const req = await fetch(url, {
         mode: "cors", // no-cors, *cors, same-origin
