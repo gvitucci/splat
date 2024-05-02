@@ -1,5 +1,5 @@
 I just slightly changed this js code to show a personally trained gaussian splatting scene collected here in Milan.
-
+I also added the antialiasing correction.
 
 # splat
 
