@@ -1,5 +1,6 @@
 I just slightly changed this js code to show a personally trained gaussian splatting scene collected here in Milan.
-I also added the antialiasing correction.
+Data is a in-the-wild acquisition done with a simple smartphone camera. No particular rules or care, in order to test how succesfully spontaneous recordings can be used as input for radiance fields based reconstruction.
+I also added the antialiasing correction suggested in the original comments.
 
 # splat
 
